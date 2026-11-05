@@ -18,7 +18,6 @@ I’m growing my experience across JavaScript, TypeScript, databases, Docker, an
 
 - **Research Assistant · MSU-IIT** — Jul 2026–Present
 - **Backend Developer Intern · meldCX** — Jan–May 2026
-  - Worked on API integrations and server-side features; also helped resolve QA issues and review pull requests.
 
 ## Tech I use and explore
 
