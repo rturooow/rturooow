@@ -36,7 +36,7 @@ A personal portfolio built with Next.js and React to share my experience, work, 
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rturooow&show_icons=true&hide_border=true&bg_color=090909&title_color=F4F4F1&text_color=B8B8B5&icon_color=F4F4F1" alt="GitHub statistics for rturooow" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rturooow&show_icons=true&theme=transparent" alt="GitHub statistics for rturooow" />
   <img height="165" src="https://streak-stats.demolab.com?user=rturooow&hide_border=true&background=090909&ring=F4F4F1&fire=F4F4F1&currStreakLabel=B8B8B5&sideLabels=B8B8B5&dates=858582&currStreakNum=F4F4F1&sideNums=F4F4F1" alt="GitHub contribution streak for rturooow" />
 </p>
 
