@@ -1,68 +1,48 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0A7895&height=230&section=header&text=ART%20KENT&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Welcome%20to%20my%20digital%20space&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=090909&height=210&section=header&text=ART%20KENT&fontSize=58&fontColor=F4F4F1&animation=fadeIn&fontAlignY=40&desc=Full-stack%20developer%20%7C%20MSU-IIT&descAlignY=66&descSize=17" alt="Art Kent — full-stack developer and MSU-IIT student" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Designing+with+clarity;Building+with+purpose;Creating+with+calm+energy" />
+  <a href="https://rturooow.github.io/Art-The-Great/"><img src="https://img.shields.io/badge/Portfolio-View%20work-f4f4f1?style=for-the-badge&logo=githubpages&logoColor=090909" alt="View the portfolio" /></a>
+  <a href="https://www.linkedin.com/in/art-sumondong-83419640b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-f4f4f1?style=for-the-badge&logo=linkedin&logoColor=090909" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:artsumondong7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-f4f4f1?style=for-the-badge&logo=gmail&logoColor=090909" alt="Email Art" /></a>
 </p>
+
+## About
+
+Hi, I’m Art Sumondong — an MSU-IIT student, Research Assistant, and full-stack developer. I enjoy building practical websites and APIs, with care for both the interface people use and the systems behind it.
+
+I’m growing my experience across JavaScript, TypeScript, databases, Docker, and deployment, and I like turning ideas into clean, useful projects.
+
+## Experience
+
+- **Research Assistant · MSU-IIT** — Jul 2026–Present
+- **Backend Developer Intern · meldCX** — Jan–May 2026
+  - Worked on API integrations and server-side features; also helped resolve QA issues and review pull requests.
+
+## Tech I use and explore
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="460" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,nodejs,express,python,mongodb,mysql,postgres,docker,git,github,vscode,c,cpp&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Next.js, Node.js, Express, Python, MongoDB, MySQL, PostgreSQL, Docker, Git, GitHub, VS Code, C, and C++" />
 </p>
+
+## Featured work
+
+### ARTURO Portfolio
+
+A personal portfolio built with Next.js and React to share my experience, work, and contact details. It includes an interactive project gallery and a direct contact form.
+
+[View the live portfolio](https://rturooow.github.io/Art-The-Great/) · [Browse the source](https://github.com/rturooow/Art-The-Great)
+
+## GitHub activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gattosazio&label=Profile%20Views&color=0A7895&style=for-the-badge" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rturooow&show_icons=true&hide_border=true&bg_color=090909&title_color=F4F4F1&text_color=B8B8B5&icon_color=F4F4F1" alt="GitHub statistics for rturooow" />
+  <img height="165" src="https://streak-stats.demolab.com?user=rturooow&hide_border=true&background=090909&ring=F4F4F1&fire=F4F4F1&currStreakLabel=B8B8B5&sideLabels=B8B8B5&dates=858582&currStreakNum=F4F4F1&sideNums=F4F4F1" alt="GitHub contribution streak for rturooow" />
 </p>
 
-<p align="center">
-  ✦ ━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━ ✦
-</p>
+## Connect
 
-##  About Me
-
--  Student at **MSU-IIT**
--  Interested in **Web Development, APIs, and Web Systems**
--  Currently learning **Vite, Node.js, Next.js, Express, databases like PostgreSQL & MongoDB, Docker and deployment**
--  I enjoy building clean, practical projects
--  Reach me at: **artsumondong7@gmail.com**
-
----
-
-##  Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,nodejs,express,mongodb,mysql,postgresql,python,c,cpp,docker,git,github,vscode" />
-</p>
-
----
-
-##  Featured Projects
-
-###  Portfolio Website
-A clean personal portfolio showcasing my works, skills, and contact information.
-
-**Tech used:** HTML, CSS, JavaScript, Typescript, Vite, React.js 
-[View Project](#)
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gattosazio&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gattosazio&theme=tokyonight" height="160" />
-</p>
-
----
-
-##  Connect With Me
-
-<p align="left">
-  <a href="mailto:artsumondong7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A7895?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/gattosazio">
-    <img src="https://img.shields.io/badge/GitHub-Profile-102F3D?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- **Email:** [artsumondong7@gmail.com](mailto:artsumondong7@gmail.com)
+- **LinkedIn:** [linkedin.com/in/art-sumondong-83419640b](https://www.linkedin.com/in/art-sumondong-83419640b/)
+- **GitHub:** [github.com/rturooow](https://github.com/rturooow)
