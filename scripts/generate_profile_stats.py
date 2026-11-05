@@ -59,7 +59,7 @@ def make_svg(stats):
     for x, label, value in columns:
         fields.append(
             f'  <text x="{x}" y="57" fill="#ababab" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1">{label}</text>\n'
-            f'  <text x="{x}" y="111" fill="#f2f2f2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="600">{value:,}</text>'
+            f'  <text x="{x}" y="111" fill="#b8b8b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="600">{value:,}</text>'
         )
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="164" viewBox="0 0 1000 164" role="img" aria-labelledby="title description">

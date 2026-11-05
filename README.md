@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://rturooow.github.io/Art-The-Great/">Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/art-sumondong-83419640b/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:artsumondong7@gmail.com">Email</a>
+  <a href="https://rturooow.github.io/Art-The-Great/" title="Portfolio"><img src="./profile/portfolio.svg" alt="Portfolio" width="40" height="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/art-sumondong-83419640b/" title="LinkedIn"><img src="./profile/linkedin.svg" alt="LinkedIn" width="40" height="40" /></a> &nbsp;&nbsp;
+  <a href="mailto:artsumondong7@gmail.com" title="Email"><img src="./profile/email.svg" alt="Email" width="40" height="40" /></a>
 </p>
 
 ## About
@@ -29,9 +29,9 @@ I'm growing my experience across JavaScript, TypeScript, databases, Docker, and 
 
 ### ARTURO Portfolio
 
-A personal portfolio built with Next.js and React to share my experience, work, and contact details. It includes an interactive project gallery and a direct contact form.
+A personal portfolio to share my experience, work, and contact details.
 
-[View the live portfolio](https://rturooow.github.io/Art-The-Great/) | [Browse the source](https://github.com/rturooow/Art-The-Great)
+[View the live portfolio](https://rturooow.github.io/Art-The-Great/)
 
 ## GitHub activity
 
@@ -46,9 +46,3 @@ A personal portfolio built with Next.js and React to share my experience, work, 
 </p>
 
 <p align="center"><sub>Updated daily · <a href="https://github.com/rturooow?tab=overview">View the full contribution calendar</a></sub></p>
-
-## Connect
-
-- **Email:** [artsumondong7@gmail.com](mailto:artsumondong7@gmail.com)
-- **LinkedIn:** [linkedin.com/in/art-sumondong-83419640b](https://www.linkedin.com/in/art-sumondong-83419640b/)
-- **GitHub:** [github.com/rturooow](https://github.com/rturooow)
