@@ -36,6 +36,10 @@ A personal portfolio built with Next.js and React to share my experience, work, 
 ## GitHub activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rturooow&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics for rturooow" />
+</p>
+
+<p align="center">
   <a href="https://github.com/rturooow?tab=overview">
     <img src="./profile/github-contribution-snake.svg" alt="Art Sumondong's GitHub contribution activity. Open my profile to see the full contribution calendar." />
   </a>
