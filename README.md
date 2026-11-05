@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/banner.svg" alt="Art Sumondong — full-stack developer and Research Assistant at MSU-IIT" width="100%" />
+  <img src="./profile/banner.gif" alt="Art Sumondong — full-stack developer and Research Assistant at MSU-IIT" width="100%" />
 </p>
 
 <p align="center">

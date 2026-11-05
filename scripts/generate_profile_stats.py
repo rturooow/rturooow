@@ -58,17 +58,17 @@ def make_svg(stats):
     fields = []
     for x, label, value in columns:
         fields.append(
-            f'  <text x="{x}" y="57" fill="#aab6ac" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1">{label}</text>\n'
-            f'  <text x="{x}" y="111" fill="#f1f4ef" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="600">{value:,}</text>'
+            f'  <text x="{x}" y="57" fill="#ababab" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1">{label}</text>\n'
+            f'  <text x="{x}" y="111" fill="#f2f2f2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="600">{value:,}</text>'
         )
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="164" viewBox="0 0 1000 164" role="img" aria-labelledby="title description">
   <title id="title">GitHub profile stats for {escape(USERNAME)}</title>
   <desc id="description">{stats["repositories"]} public repositories, {stats["stars"]} stars across owned repositories, and {stats["followers"]} followers. Updated {updated} UTC.</desc>
-  <rect x="0.5" y="0.5" width="999" height="163" rx="12" fill="#0d120f" stroke="#26352b" />
-  <path d="M354 32V126M694 32V126" stroke="#26352b" />
+  <rect x="0.5" y="0.5" width="999" height="163" rx="12" fill="#111111" stroke="#2d2d2d" />
+  <path d="M354 32V126M694 32V126" stroke="#2d2d2d" />
 {chr(10).join(fields)}
-  <text x="930" y="145" text-anchor="end" fill="#819087" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="10" letter-spacing="0.8">UPDATED {updated} UTC</text>
+  <text x="930" y="145" text-anchor="end" fill="#888888" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="10" letter-spacing="0.8">UPDATED {updated} UTC</text>
 </svg>
 '''
 

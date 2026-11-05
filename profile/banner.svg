@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
   <title id="title">Art Sumondong</title>
   <desc id="description">Full-stack developer and Research Assistant at MSU-IIT, building practical websites and APIs.</desc>
-  <rect width="1200" height="280" fill="#0d120f" />
-  <path d="M0 24H1200M0 256H1200" stroke="#26352b" stroke-width="1" />
-  <path d="M686 48V232" stroke="#26352b" stroke-width="1" />
+  <rect width="1200" height="280" fill="#111111" />
+  <path d="M0 24H1200M0 256H1200" stroke="#2d2d2d" stroke-width="1" />
+  <path d="M686 48V232" stroke="#2d2d2d" stroke-width="1" />
 
-  <rect x="68" y="68" width="4" height="144" rx="2" fill="#b6e879" />
-  <text x="96" y="126" fill="#f1f4ef" font-family="Georgia, 'Times New Roman', serif" font-size="58">Art Sumondong</text>
-  <text x="98" y="168" fill="#cbd4cc" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="20">Full-stack developer / Research Assistant</text>
-  <text x="98" y="202" fill="#89978d" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15">Practical websites and APIs, from interface to system.</text>
-  <text x="98" y="232" fill="#b6e879" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12" letter-spacing="1.5">MSU-IIT</text>
+  <rect x="68" y="68" width="4" height="144" rx="2" fill="#b8b8b8" />
+  <text x="96" y="126" fill="#f2f2f2" font-family="Georgia, 'Times New Roman', serif" font-size="58">Art Sumondong</text>
+  <text x="98" y="168" fill="#cecece" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="20">Full-stack developer / Research Assistant</text>
+  <text x="98" y="202" fill="#929292" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15">Practical websites and APIs, from interface to system.</text>
+  <text x="98" y="232" fill="#b8b8b8" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12" letter-spacing="1.5">MSU-IIT</text>
 
-  <g fill="none" stroke="#455448" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round">
+  <g id="diagram-lines" fill="none" stroke="#484848" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round">
     <path d="M758 176H850V114H982H1082V188H1135" />
     <path d="M982 114V72H1096" />
     <path d="M850 114V222H944" />
   </g>
-  <g fill="#0d120f" stroke="#b6e879" stroke-width="2">
+  <g id="diagram-nodes" fill="#111111" stroke="#b8b8b8" stroke-width="2">
     <circle cx="758" cy="176" r="5" />
     <circle cx="850" cy="114" r="5" />
     <circle cx="982" cy="114" r="5" />
@@ -24,7 +24,7 @@
     <circle cx="1096" cy="72" r="5" />
     <circle cx="944" cy="222" r="5" />
   </g>
-  <g fill="#aebbb0" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="11" letter-spacing="1.2">
+  <g fill="#ababab" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="11" letter-spacing="1.2">
     <text x="730" y="158">INTERFACE</text>
     <text x="833" y="96">API</text>
     <text x="965" y="96">DATA</text>
