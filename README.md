@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=090909&height=210&section=header&text=Art%20Sumondong&fontSize=50&fontColor=F4F4F1&animation=fadeIn&fontAlignY=40&desc=Full-stack%20developer%20%7C%20MSU-IIT&descAlignY=66&descSize=17" alt="Art Sumondong — full-stack developer and MSU-IIT student" />
+  <img src="./profile/banner.svg" alt="Art Sumondong — full-stack developer and Research Assistant at MSU-IIT" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://rturooow.github.io/Art-The-Great/"><img src="https://img.shields.io/badge/Portfolio-View%20work-f4f4f1?style=for-the-badge&logo=githubpages&logoColor=090909" alt="View the portfolio" /></a>
-  <a href="https://www.linkedin.com/in/art-sumondong-83419640b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-f4f4f1?style=for-the-badge&logo=linkedin&logoColor=090909" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:artsumondong7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-f4f4f1?style=for-the-badge&logo=gmail&logoColor=090909" alt="Email Art" /></a>
+  <a href="https://rturooow.github.io/Art-The-Great/">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/art-sumondong-83419640b/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:artsumondong7@gmail.com">Email</a>
 </p>
 
 ## About
@@ -36,7 +36,7 @@ A personal portfolio built with Next.js and React to share my experience, work, 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rturooow&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics for rturooow" />
+  <img src="./profile/stats.svg" alt="Public repository count, stars across owned repositories, and GitHub followers for rturooow" width="100%" />
 </p>
 
 <p align="center">
