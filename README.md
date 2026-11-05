@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=090909&height=210&section=header&text=ART%20KENT&fontSize=58&fontColor=F4F4F1&animation=fadeIn&fontAlignY=40&desc=Full-stack%20developer%20%7C%20MSU-IIT&descAlignY=66&descSize=17" alt="Art Kent — full-stack developer and MSU-IIT student" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=090909&height=210&section=header&text=rturooow&fontSize=58&fontColor=F4F4F1&animation=fadeIn&fontAlignY=40&desc=Full-stack%20developer%20%7C%20MSU-IIT&descAlignY=66&descSize=17" alt="rturooow - full-stack developer and MSU-IIT student" />
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 
 ## About
 
-Hi, I’m Art Sumondong — an MSU-IIT student, Research Assistant, and full-stack developer. I enjoy building practical websites and APIs, with care for both the interface people use and the systems behind it.
+Hi, I'm Art Sumondong - an MSU-IIT student, Research Assistant, and full-stack developer. I enjoy building practical websites and APIs, with care for both the interface people use and the systems behind it.
 
-I’m growing my experience across JavaScript, TypeScript, databases, Docker, and deployment, and I like turning ideas into clean, useful projects.
+I'm growing my experience across JavaScript, TypeScript, databases, Docker, and deployment, and I like turning ideas into clean, useful projects.
 
 ## Experience
 
-- **Research Assistant · MSU-IIT** — Jul 2026–Present
-- **Backend Developer Intern · meldCX** — Jan–May 2026
+- **Research Assistant - MSU-IIT** - Jul 2026-Present
+- **Backend Developer Intern - meldCX** - Jan-May 2026
 
 ## Tech I use and explore
 
@@ -31,14 +31,15 @@ I’m growing my experience across JavaScript, TypeScript, databases, Docker, an
 
 A personal portfolio built with Next.js and React to share my experience, work, and contact details. It includes an interactive project gallery and a direct contact form.
 
-[View the live portfolio](https://rturooow.github.io/Art-The-Great/) · [Browse the source](https://github.com/rturooow/Art-The-Great)
+[View the live portfolio](https://rturooow.github.io/Art-The-Great/) | [Browse the source](https://github.com/rturooow/Art-The-Great)
 
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rturooow&show_icons=true&theme=transparent" alt="GitHub statistics for rturooow" />
-  <img height="165" src="https://streak-stats.demolab.com?user=rturooow&hide_border=true&background=090909&ring=F4F4F1&fire=F4F4F1&currStreakLabel=B8B8B5&sideLabels=B8B8B5&dates=858582&currStreakNum=F4F4F1&sideNums=F4F4F1" alt="GitHub contribution streak for rturooow" />
+  <img src="./profile/stats.svg" alt="GitHub statistics for rturooow" />
 </p>
+
+[Explore my GitHub activity](https://github.com/rturooow?tab=overview)
 
 ## Connect
 
