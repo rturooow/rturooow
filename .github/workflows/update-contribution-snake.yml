@@ -1,0 +1,39 @@
+name: Update contribution snake
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create image folder
+        run: mkdir -p profile
+
+      - name: Generate contribution image
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: rturooow
+          outputs: |
+            profile/github-contribution-snake.svg?color_snake=#696969&color_dots=#242424,#393939,#545454,#707070,#909090
+
+      - name: Commit updated image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/github-contribution-snake.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update contribution activity"
+          git push
